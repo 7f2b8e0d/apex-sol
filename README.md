@@ -29,3 +29,5 @@ ApexSol 是一个基于 **Solana** 区块链构建的自动化资产管理与交
 * **价格预警与聚合 (Price Oracle)**：从 **Pyth Network** 获取最新的 **Solana (SOL)** 市场价并进行缓存。
 * **历史记录索引 (Indexer)**：记录并存储用户的所有交易轨迹，支持快速查询历史账单。
 * **自动化脚本 (Automation Bot)**：监控市场波动，寻找套利机会或执行大额交易提醒。
+
+### 第一步：实时交易历史展示 (Real-time Transaction History Display)
